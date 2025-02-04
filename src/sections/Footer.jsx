@@ -36,7 +36,7 @@ const Footer = () => {
           <h3 className="text-lg font-bold text-white">Follow Me</h3>
           <div className="flex items-center space-x-4 mt-3">
             <a
-              href="https://facebook.com/andrew.kikkert/"
+              href="https://facebook.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"
@@ -44,7 +44,7 @@ const Footer = () => {
               <Facebook size={28} />
             </a>
             <a
-              href="https://www.instagram.com/andrewkikkert/"
+              href="https://www.instagram.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"
@@ -52,7 +52,7 @@ const Footer = () => {
               <Instagram size={28} />
             </a>
             <a
-              href="http://linkedin.com/in/andrew-kikkert-aic-cpcu-b76090308"
+              href="http://linkedin.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition-colors"
@@ -60,13 +60,13 @@ const Footer = () => {
               <Linkedin size={28} />
             </a>
             <a
-              href="mailto:GUDN8BER@SBCGLOBAL.NET"
+              href="mailto:example@email.com"
               className="hover:text-white transition-colors"
             >
               <Mail size={28} />
             </a>
             <a
-              href="tel:909-360-3729"
+              href="tel:302-555-1234"
               className="hover:text-white transition-colors"
             >
               <PhoneCall size={28} />
